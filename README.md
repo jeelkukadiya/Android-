@@ -30,7 +30,7 @@ This project is an Android application that allows users to select images from t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jeelkukadiya/Android.git
+   git clone [https://github.com/jeelkukadiya/Android.git](https://github.com/jeelkukadiya/Android-)
    ```
 2. Open the project in Android Studio.
 3. Ensure you have the necessary SDKs and dependencies installed.
